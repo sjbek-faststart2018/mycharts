@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-19T12:19:21.203286023-08:00
+    created: 2018-02-19T14:18:16.936112255-08:00
     description: A Helm chart for Kubernetes
-    digest: d5f77e6a6d37335ec45c4fe6b0433a629f4b56132c6623e5964a4afad2a6410f
+    digest: ba50172967f9222e58801f07e75a33d42e20cf26508dfad7c3202e0ee68dbab3
     name: notificationchart
     urls:
     - https://sjbek-faststart2018.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-19T12:19:21.202588799-08:00
+generated: 2018-02-19T14:18:16.935672141-08:00
